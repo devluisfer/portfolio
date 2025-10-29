@@ -1,0 +1,39 @@
+[
+  {
+    "slug": "checkout-ultra-rapido",
+    "name": "Checkout ultra-rápido para ecommerce",
+    "summary": "Reduje LCP en 35% e incrementé conversión en 12% en móvil.",
+    "description": "Refactor del flujo de checkout en ecommerce de alto tráfico en Perú. Eliminé JS bloqueante, optimicé imágenes críticas y moví partes del render al servidor con Next.js.",
+    "role": "Frontend Engineer",
+    "responsibilities": [
+      "Arquitectura frontend",
+      "Optimización Core Web Vitals",
+      "Integración con servicios serverless"
+    ],
+    "tech": ["Next.js", "TypeScript", "Tailwind", "AWS Lambda", "VTEX"],
+    "year": 2024,
+    "type": "ecommerce",
+    "business_context": "Checkout móvil lento afectaba conversión en campañas de alto volumen.",
+    "problem": "LCP ~3.8s, CLS alto, INP pobre por JS bloqueante.",
+    "approach": [
+      "SSR selectivo con Next.js App Router",
+      "Uso de next/image con tamaños responsivos",
+      "Hydration parcial sólo en componentes interactivos"
+    ],
+    "results": {
+      "lcp_ms_before": 3800,
+      "lcp_ms_after": 2400,
+      "conversion_rate_change_pct": 12,
+      "cls_before": 0.18,
+      "cls_after": 0.04
+    },
+    "links": {
+      "production": "https://[ASUMIDO-EJEMPLO]/checkout",
+      "repo": null,
+      "case_study_url": "/projects/checkout-ultra-rapido"
+    },
+    "cover_image": "/images/projects/checkout-cover.jpg",
+    "og_image": "/og/checkout-ultra-rapido.png",
+    "visible": true
+  }
+]

@@ -1,0 +1,267 @@
+[
+  {
+    "category": "Frontend",
+    "items": [
+      {
+        "name": "React",
+        "level": "fuerte",
+        "years_with": 3,
+        "description": "Construcción de interfaces modulares orientadas a performance.",
+        "highlights": [
+          "Next.js App Router",
+          "Server Components",
+          "Hydration selectiva"
+        ],
+        "icon": "/icon-react.svg",
+        "use_cases": [
+          "Ecommerce high-traffic",
+          "Design Systems",
+          "Landing pages con conversión"
+        ]
+      },
+      {
+        "name": "Next.js",
+        "level": "fuerte",
+        "years_with": 2,
+        "description": "SSR/SSG/ISR, optimización Core Web Vitals, SEO.",
+        "highlights": [
+          "Rutas dinámicas con metadata SEO/OG",
+          "ISR para catálogos",
+          "Edge caching"
+        ],
+        "icon": "/icon-nextjs.svg",
+        "use_cases": [
+          "Ecommerce high-traffic",
+          "Blogs",
+          "Landing pages con conversión"
+        ]
+      },
+      {
+        "name": "JavaScript (ES6+)",
+        "level": "fuerte",
+        "years_with": 4,
+        "description": "Lenguaje principal para desarrollo frontend.",
+        "highlights": [
+          "async/await",
+          "destructuring",
+          "modules"
+        ],
+        "icon": "/icon-javascript.svg",
+        "use_cases": [
+          "Desarrollo de aplicaciones web",
+          "Automatización de tareas",
+          "Análisis de datos"
+        ]
+      },
+      {
+        "name": "HTML5",
+        "level": "fuerte",
+        "years_with": 4,
+        "description": "Estructura y semántica de contenido web.",
+        "highlights": [
+          "elementos semánticos",
+          "formularios avanzados",
+          "API de geolocalización"
+        ],
+        "icon": "/icon-html5.svg",
+        "use_cases": [
+          "Desarrollo de aplicaciones web",
+          "Automatización de tareas",
+          "Análisis de datos"
+        ]
+      },
+      {
+        "name": "CSS3",
+        "level": "fuerte",
+        "years_with": 4,
+        "description": "Estilos modernos y responsivos.",
+        "highlights": [
+          "Flexbox",
+          "Grid",
+          "Animaciones con keyframes"
+        ],
+        "icon": "/icon-css3.svg",
+        "use_cases": [
+          "Desarrollo de aplicaciones web",
+          "Automatización de tareas",
+          "Análisis de datos"
+        ]
+      },
+      {
+        "name": "TypeScript",
+        "level": "fuerte",
+        "years_with": 3,
+        "description": "Tipado estricto para evitar regresiones.",
+        "highlights": [
+          "utility types",
+          "Component props typing",
+          "API contracts"
+        ],
+        "icon": "/icon-typescript.svg",
+        "use_cases": [
+          "Desarrollo de aplicaciones web",
+          "Automatización de tareas",
+          "Análisis de datos"
+        ]
+      },
+      {
+        "name": "Tailwind CSS",
+        "level": "sólido",
+        "years_with": 2,
+        "description": "Sistemas de diseño consistentes con tokens.",
+        "highlights": [
+          "dark mode por clase",
+          "componentes responsive sin CSS adicional"
+        ],
+        "icon": "/icon-tailwindcss.svg",
+        "use_cases": [
+          "Desarrollo de aplicaciones web",
+          "Automatización de tareas",
+          "Análisis de datos"
+        ]
+      },
+      {
+        "name": "Sass",
+        "level": "sólido",
+        "years_with": 2,
+        "description": "Preprocesador CSS para estilos más mantenibles.",
+        "highlights": [
+          "anidación de selectores",
+          "mixins",
+          "variables"
+        ],
+        "icon": "/icon-sass.svg",
+        "use_cases": [
+          "Desarrollo de aplicaciones web",
+          "Automatización de tareas",
+          "Análisis de datos"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Herramientas y Otros",
+    "items": [
+      {
+        "name": "Git",
+        "level": "fuerte",
+        "description": "Control de versiones y colaboración en equipo.",
+        "icon": "/icon-git.svg"
+      },
+      {
+        "name": "npm / Yarn",
+        "level": "fuerte",
+        "description": "Gestión de dependencias y scripts de desarrollo.",
+        "icon": "/icon-npm.svg"
+      },
+      {
+        "name": "Postman",
+        "level": "sólido",
+        "description": "Pruebas y documentación de APIs.",
+        "icon": "/icon-postman.svg"
+      },
+      {
+        "name": "ESLint + Prettier",
+        "level": "fuerte",
+        "description": "Calidad y consistencia de código automatizada.",
+        "icon": "/icon-eslint.svg"
+      },
+      {
+        "name": "Google Analytics 4",
+        "level": "sólido",
+        "description": "Medición de eventos y conversiones orientadas a negocio.",
+        "icon": "/icon-google-analytics.svg"
+      },
+      {
+        "name": "Chrome Lighthouse",
+        "level": "fuerte",
+        "description": "Auditorías de performance, accesibilidad y mejores prácticas.",
+        "icon": "/icon-chrome-lighthouse.svg"
+      },
+      {
+        "name": "Chrome DevTools",
+        "level": "fuerte",
+        "description": "Depuración y optimización de performance.",
+        "icon": "/icon-chrome-devtools.svg"
+      },
+      {
+        "name": "Figma",
+        "level": "sólido",
+        "description": "Colaboración con diseñadores y extracción de assets.",
+        "icon": "/icon-figma.svg"
+      },
+      {
+        "name": "VSCode",
+        "level": "fuerte",
+        "description": "Entorno de desarrollo con extensiones para productividad.",
+        "icon": "/icon-vscode.svg"
+      },
+      {
+        "name": "Vercel",
+        "level": "sólido",
+        "description": "Despliegue continuo optimizado para Next.js.",
+        "icon": "/icon-vercel.svg"
+      },
+      {
+        "name": "Git",
+        "level": "fuerte",
+        "description": "Control de versiones y colaboración en equipo.",
+        "icon": "/icon-git.svg"
+      },
+      {
+        "name": "Jest + React Testing Library",
+        "level": "sólido",
+        "description": "Pruebas unitarias y de integración para componentes React.",
+        "icon": "/icon-jest.svg"
+      }
+    ]
+  },
+  {
+    "category": "Backend / Integración",
+    "items": [
+      {
+        "name": "AWS Lambda",
+        "level": "intermedio",
+        "description": "Funciones serverless para lógica ligera.",
+        "icon": "/icon-aws-lambda.svg",
+        "use_cases": [
+          "Procesamiento de datos de carrito",
+          "Webhooks de checkout",
+          "Envío de correos transaccionales"
+        ]
+      },
+      {
+        "name": "API Gateway",
+        "level": "intermedio",
+        "description": "Exponer endpoints REST serverless.",
+        "icon": "/icon-api-gateway.svg",
+        "use_cases": ["Servicios internos para frontend", "Integración e-commerce"]
+      },
+      {
+        "name": "DynamoDB",
+        "level": "intermedio",
+        "description": "Almacenamiento rápido para configuraciones y sesiones ligeras.",
+        "icon": "/icon-dynamodb.svg"
+      }
+    ]
+  },
+  {
+    "category": "Practices",
+    "items": [
+      {
+        "name": "Performance Web",
+        "description": "Optimización LCP, INP y CLS con auditoría y medición continua.",
+        "icon": "/icon-performance-web.svg",
+        "metrics_examples": {
+          "lcp_improvement_pct": -35,
+          "cvr_improvement_pct": 12
+        }
+      },
+      {
+        "name": "Accesibilidad",
+        "description": "WCAG 2.2 AA, navegación por teclado, roles ARIA, prefers-reduced-motion.",
+        "icon": "/icon-accesibilidad.svg"
+      }
+    ]
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "company": "[ASUMIDO Empresa Actual]",
+    "role": "Frontend Developer",
+    "from": "2023-05",
+    "to": "Actual",
+    "location": "Lima (Remoto híbrido)",
+    "highlights": [
+      "Desarrollo de features críticas de checkout y catálogo en ecommerce de alto tráfico",
+      "Optimización de rendimiento (Lighthouse y Web Vitals) en mobile",
+      "Soporte a diseño/UX para pulir microinteracciones y accesibilidad"
+    ],
+    "tech": ["React", "Next.js", "TypeScript", "VTEX", "Tailwind", "AWS Lambda"]
+  },
+  {
+    "company": "[ASUMIDO Empresa Anterior]",
+    "role": "Frontend Developer",
+    "from": "2021-02",
+    "to": "2023-04",
+    "location": "Lima",
+    "highlights": [
+      "Implementación de design system interno con tokens en Tailwind",
+      "Reducción de bugs UI en 25% mediante componentes reutilizables y linters",
+      "Integración con pasarelas de pago locales"
+    ],
+    "tech": ["React", "Tailwind", "Storybook", "TypeScript"]
+  }
+]

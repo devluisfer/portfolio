@@ -1,0 +1,25 @@
+{
+  "name": "Luis Ojeda",
+  "role": "Frontend Developer",
+  "location": "Lima, Perú",
+  "years_experience": 4,
+  "availability": "Freelance / Full-time",
+  "headline": "Construyo interfaces rápidas, accesibles y medibles.",
+  "summary_short": "Soy frontend especializado en React, Next.js y performance para ecommerce.",
+  "summary_long": "Transformo requerimientos ambiguos en experiencias claras y medibles. Me enfoco en performance (Core Web Vitals), accesibilidad (WCAG AA) y valor de negocio. También trabajo con AWS (Lambda, API Gateway, DynamoDB) para integrar servicios sin fricción.",
+  "avatar_image": "/avatar.webp",
+  "differentiators": [
+    "Pensamiento fuera de la caja",
+    "Refino requerimientos y aclaro ambigüedad de negocio",
+    "Performance y accesibilidad como KPIs, no como buzzwords",
+    "Stack moderno (Next.js + TypeScript + Tailwind)",
+    "Experiencia en ecommerce real en producción"
+  ],
+  "contact": {
+    "email": "luis.ojeda@[ASUMIDO].com",
+    "location_timezone": "America/Lima",
+    "calendly": "[ASUMIDO]",
+    "github": "https://github.com/[ASUMIDO]",
+    "linkedin": "https://www.linkedin.com/in/[ASUMIDO]"
+  }
+}

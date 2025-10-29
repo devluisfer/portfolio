@@ -1,0 +1,91 @@
+[
+  {
+    "type": "education",
+    "institution": "Universidad Nacional de Ingeniería (UNI)",
+    "title": "Bachiller en Ingeniería de Sistemas",
+    "field": "Ingeniería de Sistemas",
+    "start_date": "2016-03",
+    "end_date": "2021-12",
+    "status": "completado",
+    "location": "Lima, Perú",
+    "description": "Formación sólida en fundamentos de programación, estructuras de datos, ingeniería de software y sistemas distribuidos.",
+    "achievements": [
+      "Proyecto de grado en optimización de procesos mediante automatización de tareas",
+      "Participación en grupos de innovación y tecnología estudiantil"
+    ],
+    "certificate_url": null,
+    "visible": true
+  },
+  {
+    "type": "certification",
+    "institution": "Amazon Web Services (AWS)",
+    "title": "AWS Certified Cloud Practitioner",
+    "field": "Cloud Computing",
+    "issue_date": "2024-05",
+    "expiry_date": null,
+    "status": "vigente",
+    "description": "Certificación oficial sobre fundamentos de AWS: servicios, seguridad, facturación y arquitectura básica.",
+    "skills_covered": [
+      "AWS Lambda",
+      "API Gateway",
+      "S3 / CloudFront",
+      "DynamoDB"
+    ],
+    "certificate_url": "https://aws.amazon.com/certification/",
+    "visible": true
+  },
+  {
+    "type": "course",
+    "institution": "Platzi",
+    "title": "Curso de Next.js con TypeScript",
+    "field": "Frontend Development",
+    "start_date": "2023-08",
+    "end_date": "2023-09",
+    "status": "completado",
+    "description": "Implementación de SSR, SSG e ISR con Next.js 13+, App Router y tipado estricto con TypeScript.",
+    "skills_covered": [
+      "Next.js App Router",
+      "Server Components",
+      "ISR / SSG",
+      "Tailwind CSS"
+    ],
+    "certificate_url": "https://platzi.com/p/[ASUMIDO_USUARIO]/curso/nextjs-typescript/",
+    "visible": true
+  },
+  {
+    "type": "course",
+    "institution": "Udemy",
+    "title": "Master en React y TypeScript",
+    "field": "Frontend Development",
+    "start_date": "2022-05",
+    "end_date": "2022-07",
+    "status": "completado",
+    "description": "Curso avanzado de React Hooks, Context, Routing, Testing y buenas prácticas con TypeScript.",
+    "skills_covered": [
+      "React Hooks",
+      "Context API",
+      "Testing Library",
+      "Optimización de performance"
+    ],
+    "certificate_url": "https://udemy.com/certificate/[ASUMIDO]",
+    "visible": true
+  },
+  {
+    "type": "workshop",
+    "institution": "Google Developer Groups Lima",
+    "title": "Taller de Performance Web",
+    "field": "Optimización Web",
+    "start_date": "2023-11",
+    "end_date": "2023-11",
+    "status": "completado",
+    "description": "Workshop práctico sobre medición y optimización de Core Web Vitals con herramientas de Google.",
+    "skills_covered": [
+      "Lighthouse",
+      "Web Vitals",
+      "CrUX",
+      "Performance Auditing"
+    ],
+    "certificate_url": null,
+    "visible": true
+  }
+]
