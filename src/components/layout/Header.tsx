@@ -1,4 +1,5 @@
 import ThemeToggle from '../ui/ThemeToggle';
+import LanguageToggle from '../ui/LanguageToggle';
 
 export default function Header() {
     return (
@@ -11,6 +12,7 @@ export default function Header() {
                 </nav>
                 <div className="flex items-center space-x-4">
                     <ThemeToggle />
+                    <LanguageToggle />
                 </div>
             </div>
         </header>
